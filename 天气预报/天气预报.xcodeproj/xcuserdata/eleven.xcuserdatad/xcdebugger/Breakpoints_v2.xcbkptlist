@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "125AF97C-9A98-4379-92E2-3908F3D9CAA1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "8F06E743-BAB5-47C9-AC91-E5C8F29A74A7"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "bk1"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "8F6F9D55-7F74-48B7-8E0F-2F8E7AF14C29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9B38A6A-9B1E-4B75-A30A-CA61EB768631"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE42C39D-C92D-43F5-BC8F-3ED5E2DD4B66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/SouSuoViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE42C39D-C92D-43F5-BC8F-3ED5E2DD4B66 - b4f81d03a5b3289f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SouSuoViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/SouSuoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "CE42C39D-C92D-43F5-BC8F-3ED5E2DD4B66 - b4f81d03a5b328d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SouSuoViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/SouSuoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C18B54F-1140-4993-B46A-C27A21CF227F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "606B7F32-08C3-4D6D-8004-BEB1B9A16068"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "606B7F32-08C3-4D6D-8004-BEB1B9A16068 - 6d3dc32b8c8b2c2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+               <Location
+                  uuid = "606B7F32-08C3-4D6D-8004-BEB1B9A16068 - 6d3dc32b8c8b2c74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73095B8D-FA43-4EE5-BE6C-C07CF079527E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F85481ED-8ADA-4C98-9464-F22915A798F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FF72B4F-2AB0-4739-85C0-EC1480004F80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "349"
+            endingLineNumber = "349"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC805DBF-2EAD-4A82-AF23-22CA0486B143"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84BBCC8E-54C0-4A70-A5E7-E3C1D6A75CEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "364"
+            endingLineNumber = "364"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "556770A3-E966-4301-A5DB-DB0CBE931BD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D2F6135-C3E0-43D6-B1C6-653D5157D070"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/SouSuoViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D2F6135-C3E0-43D6-B1C6-653D5157D070 - b4f81d03a5b32997"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SouSuoViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/SouSuoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "3D2F6135-C3E0-43D6-B1C6-653D5157D070 - b4f81d03a5b329b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SouSuoViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/SouSuoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "3D2F6135-C3E0-43D6-B1C6-653D5157D070 - b4f81d03a5b32997"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SouSuoViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/SouSuoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D278BDD-5580-49D2-BE55-6F4F1F07BF86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/SouSuoViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED45FC76-4796-4284-8F5D-6A01C88C7F72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E83EA14-9ABA-4FF9-BF3E-18ABDA1E7FCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/SouSuoViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB6B14BC-C9DD-47D8-8189-D76A9ECDA494"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "-pressSouSuo"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33E5CD94-BED2-41C4-A3AE-AC4ED4627570"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-pressSouSuo"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6B6BBF7-6EC0-4208-95C2-17AD012DE762"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D6B6BBF7-6EC0-4208-95C2-17AD012DE762 - 6d3dc32b8c8b415a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "328"
+                  endingLineNumber = "328"
+                  offsetFromSymbolStart = "3256">
+               </Location>
+               <Location
+                  uuid = "D6B6BBF7-6EC0-4208-95C2-17AD012DE762 - 6d3dc32b8c8b4179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "329"
+                  endingLineNumber = "329"
+                  offsetFromSymbolStart = "3256">
+               </Location>
+               <Location
+                  uuid = "D6B6BBF7-6EC0-4208-95C2-17AD012DE762 - 6d3dc32b8c8b4179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "329"
+                  endingLineNumber = "329"
+                  offsetFromSymbolStart = "3252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9231BA7-5F2F-40C4-B9CD-8D7B959F8999"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
+            landmarkName = "-URLSession:dataTask:didReceiveData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E050B82-0232-4678-85D5-01F2EE273076"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "-creatURL"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FC89336-5C8B-43FE-9A38-3D2B4BD764BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "372"
+            endingLineNumber = "372"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A500172B-4845-4ABC-ADC1-418574EE7BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A500172B-4845-4ABC-ADC1-418574EE7BC7 - ffa6bd2906ae8bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "A500172B-4845-4ABC-ADC1-418574EE7BC7 - ffa6bd2906aeb47a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "A500172B-4845-4ABC-ADC1-418574EE7BC7 - ffa6bd2906aeb434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "A500172B-4845-4ABC-ADC1-418574EE7BC7 - ffa6bd2906aeb4d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "A500172B-4845-4ABC-ADC1-418574EE7BC7 - ffa6bd2906aeb434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C899B6EB-A1A4-4DE0-9D4E-05CECBF6C8DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C899B6EB-A1A4-4DE0-9D4E-05CECBF6C8DD - 4c4b693b2f1b9580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewWillAppear:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C899B6EB-A1A4-4DE0-9D4E-05CECBF6C8DD - 4c4b693b2f1b95a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController viewWillAppear:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06295BD2-1A5C-476A-8BB3-5394685C3887"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B946626-BC11-4B78-991A-16A54BCAFE5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B946626-BC11-4B78-991A-16A54BCAFE5D - 900df5319fe41339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "4B946626-BC11-4B78-991A-16A54BCAFE5D - 900df5319fe41358"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DAEC692-70DD-40F0-9F48-2F1F806E0355"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E1E4C6B-50A4-460F-85AF-A2D2C9C75C6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA6EB772-623E-402E-AC86-5AE8E18B477D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D0EFFC0-20E9-40D4-A7F3-E0F35C220CC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8D0EFFC0-20E9-40D4-A7F3-E0F35C220CC8 - 4fa063da0d69b061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController creatURL]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2180">
+               </Location>
+               <Location
+                  uuid = "8D0EFFC0-20E9-40D4-A7F3-E0F35C220CC8 - 4fa063da0d69b061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController creatURL]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21235ACA-3F78-4344-A736-698077919930"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D955941-175B-49A6-B813-EE84CD2D28C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246">
+            <Locations>
+               <Location
+                  uuid = "1D955941-175B-49A6-B813-EE84CD2D28C4 - 95993e1cf83569a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:dataTask:didReceiveResponse:completionHandler:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1D955941-175B-49A6-B813-EE84CD2D28C4 - 95993e1cf83569c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:dataTask:didReceiveResponse:completionHandler:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A24CACC-7741-48C9-B9C1-EF27DC865B5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2A24CACC-7741-48C9-B9C1-EF27DC865B5D - 35790a35a768e031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:dataTask:didReceiveData:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "2A24CACC-7741-48C9-B9C1-EF27DC865B5D - 35790a35a768e010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:dataTask:didReceiveData:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C02B0A68-E647-400A-8F7F-AF6205594D6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C02B0A68-E647-400A-8F7F-AF6205594D6A - 900df5319fe4102e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "C02B0A68-E647-400A-8F7F-AF6205594D6A - 900df5319fe41041"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GunDongViewController URLSession:task:didCompleteWithError:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/GunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01FDE9A1-DD40-40B7-AFF8-175CD6469B20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/GunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "gunDongViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66877FD0-C29B-4956-92E6-230335A94152"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "923A6877-E394-4E8E-8EBA-5913B881DC1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "-pressSouSuo"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "077F49BE-2CD5-432B-8297-E58BABCE5DE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/gunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8237A590-6125-4797-BB70-6530507A7928"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "448"
+            endingLineNumber = "448"
+            landmarkName = "-viewWillDisappear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E65D237-8D4C-4296-B5A8-45C009C9A008"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87A0AE84-C508-4407-AB78-9C867503E469"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "313A5F5A-B84B-42A7-B9C5-5406D9F4B89C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "-pressSouSuo"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C0DDB00-430E-402C-BD52-9B17E6E07FDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "-pressSouSuo"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C0DDB00-430E-402C-BD52-9B17E6E07FDA - 190be4c90cfe9348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TianQiViewController pressSouSuo]_block_invoke.30"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/TianQiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "1C0DDB00-430E-402C-BD52-9B17E6E07FDA - 190be4c90cfe9348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TianQiViewController pressSouSuo]_block_invoke.30"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/TianQiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B7617CF-47D6-4CA1-8475-D42EDE5480D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/gunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B7617CF-47D6-4CA1-8475-D42EDE5480D3 - 1c68635543d71af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[gunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/gunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "9B7617CF-47D6-4CA1-8475-D42EDE5480D3 - 1c68635543d71a1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[gunDongViewController viewDidLoad]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/gunDongViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B41D0B7-BF29-48B9-B667-223B24EC76C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/gunDongViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "580A69EB-91EA-4B7B-AAF2-7BE838B3CCF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "446"
+            endingLineNumber = "446"
+            landmarkName = "-viewWillDisappear:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "580A69EB-91EA-4B7B-AAF2-7BE838B3CCF7 - ec1a9f30f80a76c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController viewWillDisappear:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "580A69EB-91EA-4B7B-AAF2-7BE838B3CCF7 - ec1a9f30f80a72e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController viewWillDisappear:]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCF8B7E7-64E0-4C17-9C70-8F4576E5D950"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/WeathViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "412"
+            endingLineNumber = "412"
+            landmarkName = "-pressAdd"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCF8B7E7-64E0-4C17-9C70-8F4576E5D950 - ada7bad999c86900"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController pressAdd]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "367"
+                  endingLineNumber = "367"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "FCF8B7E7-64E0-4C17-9C70-8F4576E5D950 - ada7bad999c86900"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeathViewController pressAdd]"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/WeathViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "367"
+                  endingLineNumber = "367"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFC49BAC-1CD3-45AB-9919-4C16047AA3AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5929;&#x6c14;&#x9884;&#x62a5;/TianQiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-pressSouSuo"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFC49BAC-1CD3-45AB-9919-4C16047AA3AE - 190be4c9807e9501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TianQiViewController pressSouSuo]_block_invoke.28"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/TianQiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "FFC49BAC-1CD3-45AB-9919-4C16047AA3AE - 190be4c9807e9501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TianQiViewController pressSouSuo]_block_invoke.28"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/TianQiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "FFC49BAC-1CD3-45AB-9919-4C16047AA3AE - 190be4c9807e9501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TianQiViewController pressSouSuo]_block_invoke.28"
+                  moduleName = "&#x5929;&#x6c14;&#x9884;&#x62a5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/TianQiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

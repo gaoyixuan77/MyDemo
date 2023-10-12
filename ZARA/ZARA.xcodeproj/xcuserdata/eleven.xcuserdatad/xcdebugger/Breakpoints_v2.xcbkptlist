@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04A5E683-D529-4F03-A049-DFBC1FEF3358"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01D2049C-47CB-45A9-A9C9-9AD319CCE802"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZARA/SecondViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01D2049C-47CB-45A9-A9C9-9AD319CCE802 - 9b647b305cf1ad5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SecondViewController tableView:cellForRowAtIndexPath:]"
+                  moduleName = "ZARA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/ZARA/ZARA/SecondViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "01D2049C-47CB-45A9-A9C9-9AD319CCE802 - 9b647b305cf1ad5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SecondViewController tableView:cellForRowAtIndexPath:]"
+                  moduleName = "ZARA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleven/Desktop/ZARA/ZARA/SecondViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
